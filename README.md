@@ -3,6 +3,9 @@
 ==========================================
 README - APLIKASI KRIPTOGRAFI AES-256 (CBC)
 Mata Kuliah: Keamanan Data 
+Nama: Avatar Bintang Ramadhan
+NIM: 103052300007
+Kelas: DS-47-01
 ==========================================
 
 Aplikasi ini adalah implementasi sederhana dari algoritma AES-256 mode CBC
